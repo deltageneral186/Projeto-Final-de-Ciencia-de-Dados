@@ -33,8 +33,7 @@ mortalidade entre municípios e regiões brasileiras?
 
 1. Clone o repositório:
 ```bash
-   git clone [URL do seu repositório]
-   cd [nome-da-pasta]
+   git clone https://github.com/deltageneral186/Projeto-Final-de-Ciencia-de-Dados
 ```
 
 2. Crie um ambiente virtual (recomendado):
@@ -57,3 +56,7 @@ mortalidade entre municípios e regiões brasileiras?
 5. Execute todas as células em ordem (Kernel → Restart & Run All), já 
    que os CSVs estão no mesmo diretório do notebook e são carregados por 
    caminho relativo.
+
+## Autores
+Samuel Souza Del Grande
+Kauã Guimarães Esperança
