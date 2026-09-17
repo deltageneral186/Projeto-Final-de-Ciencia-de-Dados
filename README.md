@@ -1,2 +1,2 @@
-# Projeto-Final-de-Ci-ncia-de-Dados
+# Projeto-Final-de-Ciencia-de-Dados
 Segundo trabalho prático da disciplina
