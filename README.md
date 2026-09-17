@@ -20,7 +20,7 @@ mortalidade entre municípios e regiões brasileiras?
 
 ├── datasets_notebook_requirements
 
-└── README.md
+├── README.md
 
 ## Como rodar
 
