@@ -18,9 +18,13 @@ mortalidade entre municípios e regiões brasileiras?
 
 ## Estrutura do repositório
 ├── ImunizaçãoPorMunicípio2022.csv
+
 ├── NascidosVivosPorMunicípio2022.csv
+
 ├── ÓbitosPorMunicípio2022.csv
+
 ├── Projeto_Final_de_Ciência_de_Dados.ipynb
+
 ├── requirements.txt
 └── README.md
 
