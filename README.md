@@ -12,9 +12,9 @@ mortalidade entre municípios e regiões brasileiras?
 
 | Arquivo | Fonte | Sistema | Link de acesso | Data de download |
 |---|---|---|---|---|
-| ImunizaçãoPorMunicípio2022.csv | Ministério da Saúde/DATASUS | PNI | [URL do TabNet] | [data] |
-| NascidosVivosPorMunicípio2022.csv | Ministério da Saúde/DATASUS | SINASC | [URL do TabNet] | [data] |
-| ÓbitosPorMunicípio2022.csv | Ministério da Saúde/DATASUS | SIM | [URL do TabNet] | [data] |
+| ImunizaçãoPorMunicípio2022.csv | Ministério da Saúde/DATASUS | PNI | https://datasus.saude.gov.br/informacoes-de-saude-tabnet/| 16/09/2026 |
+| NascidosVivosPorMunicípio2022.csv | Ministério da Saúde/DATASUS | SINASC | https://datasus.saude.gov.br/informacoes-de-saude-tabnet/ | 16/09/2026 |
+| ÓbitosPorMunicípio2022.csv | Ministério da Saúde/DATASUS | SIM | https://datasus.saude.gov.br/informacoes-de-saude-tabnet/ | 16/09/2026 |
 
 ## Estrutura do repositório
 ├── ImunizaçãoPorMunicípio2022.csv
