@@ -17,15 +17,8 @@ mortalidade entre municípios e regiões brasileiras?
 | ÓbitosPorMunicípio2022.csv | Ministério da Saúde/DATASUS | SIM | https://datasus.saude.gov.br/informacoes-de-saude-tabnet/ | 16/09/2026 |
 
 ## Estrutura do repositório
-├── ImunizaçãoPorMunicípio2022.csv
 
-├── NascidosVivosPorMunicípio2022.csv
-
-├── ÓbitosPorMunicípio2022.csv
-
-├── Projeto_Final_de_Ciência_de_Dados.ipynb
-
-├── requirements.txt
+├── datasets_notebook_requirements
 
 └── README.md
 
